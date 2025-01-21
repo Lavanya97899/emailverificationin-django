@@ -1,1 +1,1 @@
-# Smart-dairy-application
+Email verification using django
